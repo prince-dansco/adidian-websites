@@ -7,7 +7,7 @@ const Testimonials: React.FC = () => {
     {
       name: 'Opluwa John Asokoro',
       condition: 'Back Pain Recovery',
-      image: 'https://images.unsplash.com/photo-1611095790444-1dfa35e37b52?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHBhdGllbnR8ZW58MHx8MHx8fDA%3D',
+      // image: 'https://images.unsplash.com/photo-1611095790444-1dfa35e37b52?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHBhdGllbnR8ZW58MHx8MHx8fDA%3D',
       quote: "After months of chronic back pain, I thought I'd never feel normal again. The team at Adidian helped me get back to playing with my children pain-free. Their personalized approach made all the difference.",
       rating: 5,
       location: 'Abuja'
@@ -15,7 +15,7 @@ const Testimonials: React.FC = () => {
     {
       name: 'George Daniel Garki',
       condition: 'Sports Injury Rehabilitation',
-      image: 'https://images.pexels.com/photos/5794063/pexels-photo-5794063.jpeg?auto=compress&cs=tinysrgb&w=400',
+      // image: 'https://images.pexels.com/photos/5794063/pexels-photo-5794063.jpeg?auto=compress&cs=tinysrgb&w=400',
       quote: "As an athlete, I was devastated by my knee injury. Dr. Diana and her team not only helped me recover but made me stronger than before. I'm back on the field and performing better than ever.",
       rating: 5,
       location: 'Garki'
@@ -23,7 +23,7 @@ const Testimonials: React.FC = () => {
     {
       name: 'Mrs. Catherine Onate Area 11',
       condition: 'Post-Pregnancy Recovery',
-      image: 'https://plus.unsplash.com/premium_photo-1731410157812-f3a6a559e8af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGF0aWVudCUyMGJsYWNrfGVufDB8fDB8fHww',
+      // image: 'https://plus.unsplash.com/premium_photo-1731410157812-f3a6a559e8af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGF0aWVudCUyMGJsYWNrfGVufDB8fDB8fHww',
       quote: "The women's health physiotherapy program was exactly what I needed after childbirth. The team understood my unique needs as a new mother and helped me regain my strength and confidence.",
       rating: 5,
       location: 'Area 11'
@@ -31,7 +31,7 @@ const Testimonials: React.FC = () => {
     {
       name: 'Mrs. Grace Essien Gwarinpa',
       condition: 'Stroke Recovery',
-      image: 'https://images.unsplash.com/photo-1632054229892-21103035a686?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGF0aWVudCUyMGJsYWNrfGVufDB8fDB8fHww',
+      // image: 'https://images.unsplash.com/photo-1632054229892-21103035a686?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGF0aWVudCUyMGJsYWNrfGVufDB8fDB8fHww',
       quote: "After my stroke, I didn't think I'd walk again. The neurological rehabilitation program at Adidian gave me hope and helped me achieve what doctors said was impossible. I'm walking and living independently again.",
       rating: 5,
       location: 'Wuse'
@@ -39,7 +39,7 @@ const Testimonials: React.FC = () => {
     {
       name: 'Mrs. Arziki Wakawa Wuse',
       condition: 'Chronic Pain Management',
-      image: 'https://images.unsplash.com/photo-1550792404-f62d4ce3bb3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBhdGllbnR8ZW58MHx8MHx8fDA%3D',
+      // image: 'https://images.unsplash.com/photo-1550792404-f62d4ce3bb3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBhdGllbnR8ZW58MHx8MHx8fDA%3D',
       quote: "I had tried everything for my chronic pain - multiple doctors, medications, other therapies. Nothing worked until I came to Adidian. Their holistic approach finally gave me the relief I'd been seeking for years.",
       rating: 5,
       location: 'Maitama'
@@ -47,7 +47,7 @@ const Testimonials: React.FC = () => {
     {
       name: 'Engr. Ehidiamen Okoyomon Maitama',
       condition: 'Workplace Injury Recovery',
-      image: 'https://images.pexels.com/photos/5794058/pexels-photo-5794058.jpeg?auto=compress&cs=tinysrgb&w=400',
+      // image: 'https://images.pexels.com/photos/5794058/pexels-photo-5794058.jpeg?auto=compress&cs=tinysrgb&w=400',
       quote: "My workplace injury left me unable to work for months. The occupational therapy program helped me not only recover but also prevented future injuries. I'm back to work and feeling stronger than ever.",
       rating: 5,
       location: 'Central Area'
@@ -55,7 +55,7 @@ const Testimonials: React.FC = () => {
     {
       name: 'Ifechukwu Ugwu Kubwa',
       condition: 'Pediatric Physiotherapy',
-      image: 'https://images.unsplash.com/photo-1550792404-f62d4ce3bb3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBhdGllbnR8ZW58MHx8MHx8fDA%3D',
+      // image: 'https://images.unsplash.com/photo-1550792404-f62d4ce3bb3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBhdGllbnR8ZW58MHx8MHx8fDA%3D',
       quote: "My son had developmental delays, and I was worried about her future. The pediatric team at Adidian worked miracles. She's now meeting all her milestones and thriving. I'm forever grateful.",
       rating: 5,
       location: 'Kubwa'
@@ -63,7 +63,7 @@ const Testimonials: React.FC = () => {
     {
       name: 'Emmanuel Okafor',
       condition: 'Geriatric Care',
-      image: 'https://images.pexels.com/photos/5407205/pexels-photo-5407205.jpeg?auto=compress&cs=tinysrgb&w=400',
+      // image: 'https://images.pexels.com/photos/5407205/pexels-photo-5407205.jpeg?auto=compress&cs=tinysrgb&w=400',
       quote: "At 75, I thought my mobility issues were just part of aging. Adidian's geriatric physiotherapy program proved me wrong. I'm more active now than I've been in years, and my balance has improved significantly.",
       rating: 5,
       location: 'Central Business Districk'
@@ -109,11 +109,7 @@ const Testimonials: React.FC = () => {
             {testimonials.map((testimonial, index) => (
               <div key={index} className="bg-white rounded-xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-300 border border-gray-100">
                 <div className="flex items-center mb-6">
-                  <img
-                    src={testimonial.image}
-                    alt={testimonial.name}
-                    className="w-16 h-16 rounded-full object-cover mr-4"
-                  />
+                  
                   <div>
                     <h3 className="font-bold text-gray-900">{testimonial.name}</h3>
                     <p className="text-blue-600 text-sm font-medium">{testimonial.condition}</p>

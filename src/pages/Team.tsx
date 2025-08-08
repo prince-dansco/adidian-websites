@@ -5,15 +5,15 @@ const Team: React.FC = () => {
   const teamMembers = [
     {
       name: 'Dr. Diana Daniel. O.',
-      role: 'Lead Physiotherapist & Clinic Director',
-      image: 'image_eight.jpg',
+      role: 'Licensed and Experienced',
+      image: 'image_nine.jpg',
       specialties: ['Physiotherapist (DPT)', ' Ergonomist', 'Hydrotherapist'],
       experience: '5+ years'
     },
     {
       name: 'Dr. Michael Johnson',
       role: 'Senior Physiotherapy Doctor',
-      image: 'image_three.jpg',
+      image: 'image_eight.jpg',
       specialties: ['Sports Rehabilitation', 'Orthopedic Care', 'Manual Therapy'],
       experience: '4+ years'
     },
@@ -78,12 +78,13 @@ const Team: React.FC = () => {
                   
                   <div className="mb-4">
                     <h4 className="text-sm font-semibold text-gray-900 mb-2">Specialties:</h4>
-                    <div className="flex flex-wrap gap-1">
+                    <div className="flex flex-col gap-0.5">
                       {member.specialties.map((specialty, idx) => (
-                        <span key={idx} className="text-xs bg-blue-100 text-blue-800 px-2 py-1 rounded-full">
+                        <span key={idx} className="text-lg  text-blue-800 px-2 py-1 font-bold">
                           {specialty}
                         </span>
                       ))}
+                    
                     </div>
                   </div>
                   
@@ -128,8 +129,7 @@ const Team: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-              src='image_nine.jpg'
-                // src="https://images.pexels.com/photos/5794057/pexels-photo-5794057.jpeg?auto=compress&cs=tinysrgb&w=800"
+              src='image_eight.jpg'
                 alt="Black healthcare team collaborating"
                 className="rounded-2xl shadow-xl w-full h-96 object-cover"
               />

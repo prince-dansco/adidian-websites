@@ -10,6 +10,7 @@ import Testimonials from './pages/Testimonials';
 import FAQ from './pages/FAQ';
 import Contact from './pages/Contact';
 import Resources from './pages/Resources';
+import BlogPost from './pages/blogPost';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
             <Route path="/faq" element={<FAQ />} />
             <Route path="/resources" element={<Resources />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/blog/:serviceId" element={<BlogPost />} />
           </Routes>
         </main>
         <Footer />
