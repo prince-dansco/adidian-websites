@@ -11,10 +11,10 @@ const Team: React.FC = () => {
       experience: '5+ years'
     },
     {
-      name: 'Dr. Michael Johnson',
-      role: 'Senior Physiotherapy Doctor',
-      image: 'image_eight.jpg',
-      specialties: ['Sports Rehabilitation', 'Orthopedic Care', 'Manual Therapy'],
+      name: 'Dr. C. J. Otikpa',
+      role: "Women's health and wellness coach",
+      image: 'fine_doc.jpg',
+      specialties: ['Physiotherapist (DPT)'],
       experience: '4+ years'
     },
     
